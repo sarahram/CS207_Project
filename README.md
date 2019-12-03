@@ -41,10 +41,10 @@ insert schematic and breadboard view images here
 # Team
 
 The build team consists of:
-* Sarah Ram -- 
+* Sarah Ram -- Documented and worked on the github, built the schematics & breadboard view of the circuit
 * Mackenzy Vida --
 * Lauren Wilson --
-* Chase Wilson --
+* Chase Wilson -- Altered and worked on the code, as well as did the main build of the circuit
 
 # Credits
 
