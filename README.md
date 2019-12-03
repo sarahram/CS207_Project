@@ -49,4 +49,5 @@ The build team consists of:
 # Credits
 
 Our project is based off of a 32-Band Audio Spectrum Visual Analyzer
+
 https://www.hackster.io/Shajeeb/32-band-audio-spectrum-visualizer-analyzer-902f51 
