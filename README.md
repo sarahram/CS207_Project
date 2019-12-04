@@ -40,11 +40,13 @@ insert schematic and breadboard view images here
 
 # Team
 
+All members participated in brainstorming and additional research and changes to the write up as needed.
+
 The build team consists of:
-* Sarah Ram -- Documented and worked on the github, built the schematics & breadboard view of the circuit
-* Mackenzy Vida -- Focused on Documentation of this project, as well as designed the look of the 
-* Lauren Wilson --
-* Chase Wilson -- Altered and worked on the code, as well as did the main build of the circuit
+* Sarah Ram -- Focused mainly on the GitHub assembly and curation, formatting this readme file as well as the files themselves. Also,     was able to create a schematic and breadboard view of the circuit built to include in this readme file.
+* Mackenzy Vida -- Focused on Documentation and write up of this project, as well as ordering the required material and assembling it to   make our light display look nice and presentable.  
+* Lauren Wilson -- Focused on the documentation as well as the GitHub information.
+* Chase Wilson -- Focused on assembling and altering the code and the main build of the circuit.
 
 # Credits
 
