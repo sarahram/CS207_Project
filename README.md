@@ -1,4 +1,4 @@
-# Repository Title
+# Audio Spectrum Visualizer 
 
 insert description of repository here
 
