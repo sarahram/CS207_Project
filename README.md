@@ -50,6 +50,10 @@ The build team consists of:
 
 # Credits
 
-Our project is based off of a 32-Band Audio Spectrum Visual Analyzer
+Our project is based off related projects about LED reactives strips/ audio band visualizers.
 
-https://www.hackster.io/Shajeeb/32-band-audio-spectrum-visualizer-analyzer-902f51 
+https://www.hackster.io/Shajeeb/32-band-audio-spectrum-visualizer-analyzer-902f51
+https://www.hackster.io/sridhar-rajagopal/rgb-matrix-audio-visualizer-with-arduino-845062
+https://www.hackster.io/buzzandy/music-reactive-led-strip-5645ed
+https://arduino-cool.blogspot.com/2014/06/kaleidoscope-with-arduino-and-rgb-led.html
+
