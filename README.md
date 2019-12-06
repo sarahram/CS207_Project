@@ -6,10 +6,10 @@ insert picture of build here
 
 # Repository Contents
 
-* **/src**
-* **/hardware**
 * **/build**
+* **/hardware**
 * **/img**
+* **/src**
 * **/LICENSE**
 * **/README.md** 
 
