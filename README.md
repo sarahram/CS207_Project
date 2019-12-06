@@ -27,7 +27,9 @@ Bill of Materials:
 
 # Build Instructions
 
+![alt text][pic 1]
 
+[pic 1]:
 
 # Usage 
 
