@@ -29,7 +29,7 @@ Bill of Materials:
 
 ![alt text][pic 1]
 
-[pic 1]:
+[pic 1]: https://github.com/sarahram/CS207_Project/blob/master/img/Breadboard%20view.jpg
 
 # Usage 
 
