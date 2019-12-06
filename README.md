@@ -2,7 +2,7 @@
 
 This Audio Spectrum Visualizer takes in sound from the external environment, measures the frequency, and sets off lights based on the readings. We were inspired to do this project based on our interest in music, as well as other projects we found such as a Music Reactive LED Strip with Amplifier. Our design uses an arduino genuino uno, a microphone amplifier, 4 LEDs, and resistors, and is a great project for anyone at the beginner level. This project is entirely customizable as you can use any amount/colours of LEDs, thresholds for frequencies that control the lights, how the lights are displayed, and more.
 
-![alt text] [pic 2]
+![alt text][pic 2]
 
 [pic 2]: https://github.com/sarahram/CS207_Project/blob/master/img/Circuit%20Picture.jpeg.jpg
 
