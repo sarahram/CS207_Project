@@ -16,7 +16,7 @@ insert picture of build here
 # Requirements and Materials
 
 Dependencies:
-* Arduino’s Audio Frequency Meter library (Maybe add link??)
+* Arduino’s Audio Frequency Meter library https://www.arduino.cc/en/Guide/Libraries#toc3
 
 Bill of Materials:
 * 2 x red LEDS
