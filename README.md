@@ -21,13 +21,13 @@ Dependencies:
 Bill of Materials:
 * 2 x red LEDS
 * 2 x green LEDS
-* 4 x 55k resistors
+* 4 x 2.2k resistors
 * 1 x breadboard
 * 1 x microphone amplifier with adjustable voltage
 
 # Build Instructions
 
-insert schematic and breadboard view images here
+
 
 # Usage 
 
