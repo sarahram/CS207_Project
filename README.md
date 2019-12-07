@@ -8,8 +8,6 @@ This Audio Spectrum Visualizer takes in sound from the external environment, mea
 
 # Repository Contents
 
-* **/build**
-* **/hardware**
 * **/img**
 * **/src**
 * **/LICENSE**
