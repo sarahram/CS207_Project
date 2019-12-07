@@ -31,6 +31,10 @@ Bill of Materials:
 
 [pic 1]: https://github.com/sarahram/CS207_Project/blob/master/img/Breadboard%20view.jpg
 
+![alt text][pic 3]
+
+[pic 3]: https://github.com/sarahram/CS207_Project/blob/master/img/Schematic%20view.jpg
+
 # Usage 
 
 * Build the circuit
